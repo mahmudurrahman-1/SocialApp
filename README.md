@@ -1,3 +1,2 @@
 # styco
-Please visit this app.... 
-https://mahmudurrahman-1.github.io/styco/
+## https://styco.netlify.app/
